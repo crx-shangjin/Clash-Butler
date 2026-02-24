@@ -17,9 +17,9 @@ rename_pattern = "${COUNTRYCODE}_${CITY}_${ISP}"
 need_add_pool = true
 # 代理节点池
 pools = [
-"https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/AllConfigsSub.txt"
-"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2"
-"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2"
+"https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/AllConfigsSub.txt",
+"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
+"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2",
 "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt"
 ]
 
